@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.PixelCameraHelper" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/pch_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/pch_primary</item>
+        <item name="colorOnPrimaryContainer">@color/white</item>
+        <item name="android:statusBarColor">@color/pch_primary_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
